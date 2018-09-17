@@ -7906,15 +7906,15 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4877783095420752, guid: d190547bddde04794b243f35a9c84807, type: 2}
       propertyPath: m_LocalScale.x
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4877783095420752, guid: d190547bddde04794b243f35a9c84807, type: 2}
       propertyPath: m_LocalScale.y
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4877783095420752, guid: d190547bddde04794b243f35a9c84807, type: 2}
       propertyPath: m_LocalScale.z
-      value: 3
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d190547bddde04794b243f35a9c84807, type: 2}
