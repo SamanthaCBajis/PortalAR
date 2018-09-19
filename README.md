@@ -3,7 +3,8 @@
 <br />
 <br />This respository contains a Unity/ARKit application. **_PortalAR_** is an experience where the user can enter a new world just by walking through the doorway in front of them! By tapping the screen the user has the power to enter and exit the portal as many times as they would like; also they have the ability to place the portal door anywhere in the room or space around them. **_PortalAR_** was made possible by a tutorial offered on MatthewHallberg's YouTube Channel. (the link to his video will be in the acknowledgements below) 
 <br />
-<br /> 
+<br /> ![img-3798](https://user-images.githubusercontent.com/35173600/45730740-862c9e80-bba1-11e8-9bd7-b30f4d0be4b4.JPG)
+
 
 ## Getting Started
 
@@ -43,13 +44,13 @@ The instructions to play the application **_PortalAR_**:
 <br />
 <br /> • The best way to begin would be to wait for the camera to focus. Then, move the phone over the floor or objects near you to have the app begin tracking the space around you. (You do not need to be really close! You will know its working when the golden Point Cloud Particles begin to show)
 <br />
-<br />
+<br /> ![img-3802](https://user-images.githubusercontent.com/35173600/45730753-98a6d800-bba1-11e8-948f-e1e8731fb461.JPG)
 <br /> 
 <br /> • Tap anywhere on the screen and the door will appear. Tap as many times as you would like to position the doorway in the best place for you to walk through. (The doorway does not have to be perfectly positioned in front of you, just walking through the door anywhere you place it will work)
 <br />
 <br /> • Once you enter the portal the world around you will change just like that! You will be able to see the doorway you entered. You can enter or exit as much as you would like as well as tap the screen to move the doorway to another area in the space.
 <br />
-<br /> 
+<br /> ![img-3808](https://user-images.githubusercontent.com/35173600/45730775-c12ed200-bba1-11e8-81fa-41840ada0c1e.JPG)
 
 # Authors
 • Samantha Cayla Bajis - _Initial work_ - SamBajis
